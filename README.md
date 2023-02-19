@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SayanKabir
 - 👀 I’m interested in Application Development @Flutter, Game Development @Unity, Machine Learning and Data Science
-- 🌱 I’m currently Machine Learning, ML Agents @Unity
+- 🌱 I’m currently Deep Learning @TensorFlow, ML Agents @Unity
 - 💞️ I’m looking to collaborate on Open-Source projects 
 - 📫 How to reach me kabirsayan93@gmail.com
 
