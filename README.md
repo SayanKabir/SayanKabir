@@ -61,7 +61,7 @@ My technical journey spans frontend mobile development, machine learning, and co
 ### 💡 Featured Projects & Products
 
 * **[Sugam-Krishi](https://github.com/SayanKabir/Sugam-Krishi)**: An agri-tech platform and one-stop solution for farmers. Features a marketplace, community forums, and a CNN-based crop disease detection model.
-* **[passwordzzz (SecurePass)](https://github.com/SayanKabir/passwordzzz)**: A powerful open-source password manager built with Flutter. It utilizes a local SQLite database, AES encryption, and biometric authentication for maximum security.
+* **[Passwordzzz](https://github.com/SayanKabir/passwordzzz)**: A powerful open-source password manager built with Flutter. It utilizes a local SQLite database, AES encryption, and biometric authentication for maximum security.
 * **[Pebl](https://github.com/SayanKabir/Pebl)**: *“One pebble a day, a mountain someday.”* A habit tracker built with a beautiful glassmorphic UI design and heatmap visualizations to keep users motivated.
 * **LayerOne & Pilzy**: Healthcare and accessibility solutions. *LayerOne* is an AI-enabled care platform focused on Autism, while *Pilzy* is a medication reminder app designed for the elderly featuring AI and OCR capabilities.
 * **[PagePrism](https://github.com/SayanKabir/PagePrism)**: A Langchain and Streamlit web application that allows users to chat directly with their PDF documents using LLMs.
